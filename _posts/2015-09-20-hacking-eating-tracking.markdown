@@ -28,3 +28,6 @@ Following is the flowchart of the 3 step process described above:
 
 
 <iframe src="https://docs.google.com/presentation/d/1qo04-XxruYGAeyVnumdJkPUnWMyyqehzOA76ynr-Tw8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hacker team &quot;NFCalorie&quot; on tracking people&#39;s eating behavior in a cafeteria setting <a href="http://t.co/xbMXlOdd9X">pic.twitter.com/xbMXlOdd9X</a></p>&mdash; Hack-Eating-Tracking (@HackEatTrack) <a href="https://twitter.com/HackEatTrack/status/645699007566622722">September 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
