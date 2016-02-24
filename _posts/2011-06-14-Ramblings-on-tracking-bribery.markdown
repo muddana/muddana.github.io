@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Ramblings on 'tackling bribery"
+title:  "Thoughts on tackling bribery"
 date:   2011-06-14 14:10:00 -0500
-categories: hackathon
+categories: civic
 ---
 
-The issue of bribery feels like an easy crime to point out, of course acting on it to resolve this issue is a difficult task. Pointing out the crime might be a big step in solving the problem. I am starting to believe that answer to the question on how to tackle bribery might get a huge helping hand with the use of technology and the internet.
+The issue of bribery (in India) feels like an easy crime to point out, of course acting on it to resolve this issue is a difficult task. Pointing out the crime might be a big step in solving the problem. I am starting to believe that answer to the question on how to tackle bribery might get a huge helping hand with the use of technology and the internet.
 
 •	Collecting data: Collecting data about incidents of bribery (claims) is very important. ipaidabribe.com is a good example in this direction. I believe that a mobile application would be a better tool for reporting bribery. One might be more likely to report a demand for bribe as soon as it occurs. Even a phone call to report a bribe ( 1-800-BRIBE-LINE) might be a good tool for addressing this issue. Bottom line is I would be more likely to report an incident as soon as it occurs.
 
@@ -17,7 +17,7 @@ May be the answer to effectively broadcasting the information might not be tradi
 
 Can local groups of citizens represent or create awareness? This sounds like an obvious one but might be the most difficult to implement, can social networking address this by making the interactions faster, can this bring awareness? 
 
-Approaches to portray bribery effectively: We all know bribery is happening everywhere and every second but putting a number or a value to it is always effective. Even if one could put a value to it how could this be effectively broadcast throughout society? One opinion would be that an effective representation of the bribery in terms of a physical quantity which people can imagine would be better than a statistical number.
+Approaches to portray bribery effectively: We all know bribery is happening everywhere and every second but putting a number or a value to it is always effective. Even if one could put a value to, it how could this be effectively broadcast throughout society? One opinion would be that an effective representation of the bribery in terms of a physical quantity/locations which people can actually visualize would be better than a statistical estimate.
 
-Ofcourse I do not have all the answers, only bunch of questions and couple of ideas to act on!
+Update: Looks like http://www.ipaidabribe.com/ is doing a great job in collecting the data.
 
