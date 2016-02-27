@@ -5,7 +5,7 @@ date:   2012-02-03 20:04:00 -0500
 categories: hack
 ---
 
-![Full-stack]({{ site.url }}/assets/simpsons.png "stack")
+![Code submissions tweets](/assets/simpsons.png)
 
 If you have ever worked in a large team, you know the communication difficulties which arise from it. One of them being of course, communicating what you are working on. Usually this is accomplished with task lists, status meetings(stand up or otherwise). However, typically because of team size, other adjoining teams/groups would miss out on the larger theme. 
 
