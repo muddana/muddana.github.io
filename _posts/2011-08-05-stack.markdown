@@ -5,7 +5,7 @@ date:   2011-06-14 14:10:00 -0500
 categories: art
 ---
 
-![Full stack]({{ site.url }}/assets/glasses.JPG)
+![Full stack]({{ site.github.url }}/assets/glasses.JPG)
 
 
 Top view of a stack of glasses in a tower format. In the begining of my job at Mathworks, I would drink a cup of water and instead of throwing away (there was no recylcing), I collected all of them and stacked them together to form a tower. 
