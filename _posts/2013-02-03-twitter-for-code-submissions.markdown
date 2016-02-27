@@ -5,7 +5,7 @@ date:   2014-02-03 20:04:00 -0500
 categories: hack
 ---
 
-![Code submissions tweets](/assets/simpsons.png)
+<img src="/assets/simpsons.png" width="500px" alt="Code submissions tweets"/>
 
 If you have ever worked in a large team, you know the communication difficulties which arise from it. One of them being of course, communicating what you are working on. Usually this is accomplished with task lists, status meetings(stand up or otherwise). However, typically because of team size, other adjoining teams/groups would miss out on the larger theme. 
 

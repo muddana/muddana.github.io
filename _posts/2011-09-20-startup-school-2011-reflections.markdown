@@ -5,7 +5,7 @@ date:   2011-11-07 13:14:00 -0500
 categories: startups
 ---
 
-![Paul G Startup School](/assets/34016017-IMAG0467.jpg)
+<img src="/assets/34016017-IMAG0467.jpg" width="500px" alt="Paul G Startup School"/>
 
 * Build something which people want.
 * One of the recurrent themes among the many speakers was: solving problems is more important than starting a company itself. Many speakers alluded to the culture of starting a company to start a company(rather than solving a problem). 
