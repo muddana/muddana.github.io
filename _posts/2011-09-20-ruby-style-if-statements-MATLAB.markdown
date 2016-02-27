@@ -12,14 +12,18 @@ In ruby I could say: a = 1 if true. But in MATLAB one has to write
 three lines to get it done(I know, I can be lazy at times!). In MATLAB 
 it would be:
 
+{% highlight matlab %}
 if true 
 a = 1; 
 end
+{% endhighlight %}
 
 To get similar statements as in Ruby I would be using a keyword 'do'. 
 So in MATLAB my statements would look like :
 
+{% highlight matlab %}
 do a = 1 if true.
+{% endhighlight %}
 
 Not too bad, better than typing out three lines. So essentially, 'do' 
 will be a function which will take in variable arguments and parse for 
