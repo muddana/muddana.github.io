@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Twitter for code submissions"
-date:   2012-02-03 20:04:00 -0500
+date:   2014-02-03 20:04:00 -0500
 categories: hack
 ---
 
