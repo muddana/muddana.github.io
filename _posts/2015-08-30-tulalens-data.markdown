@@ -10,7 +10,7 @@ There were many interesting presentations, project description/introductions by 
 
 Among its other goals, Tulalens helps low-income women in slums access better healthcare services available to them. The founder of Tulalens, Priya presented a dataset containing various parameters about these women like, Age, income, family size, number of children, other health information like number of doctor visits, health outcome etc. In all the dataset size was not so big, but had  97 columns. So the number of parameters to look at was very wide. 
 
-We used pandas(python) to analyze the data. Here is a sample screenshot of the data that was exprlored. The scatter matrix shows a section of data. Following is the sample code used to generate the screenshot.
+We used pandas(python) to analyze the data. A small snippet of the code and the output screenshot are posted below. The scatter matrix shows a section of data. Since there were 97 variables in the dataset, there were plenty of avenues to inspect. 
 
 {% highlight python %}
 from pandas.tools.plotting import scatter_matrix
