@@ -3,6 +3,7 @@ layout: post
 title:  "Ruby type if statements in MATLAB"
 date:   2011-09-20 07:54:00 -0500
 categories: hack
+excerpt_separator: <!--endOfExcerpt-->
 ---
 
 I do miss Ruby type 'if' statements in MATLAB, so to overcome that I 
@@ -24,6 +25,8 @@ So in MATLAB my statements would look like :
 {% highlight matlab %}
 do a = 1 if true.
 {% endhighlight %}
+
+<!--endOfExcerpt-->
 
 Not too bad, better than typing out three lines. So essentially, 'do' 
 will be a function which will take in variable arguments and parse for 
