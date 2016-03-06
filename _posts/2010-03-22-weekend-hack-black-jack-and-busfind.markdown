@@ -53,4 +53,4 @@ Also, last week was a better week for BusFind got 89 calls in total last week. s
 
 happy hacking.
 
-![Bus Find Calls]({{ site.url }}/assets/7502307-03222010.png "busfind_calls")
+![Bus Find Calls](/assets/7502307-03222010.png "busfind_calls")
