@@ -49,7 +49,7 @@ end
 
 Lot more to do, have to refine the code and try adding some networking capabilities to connect form real clients, but find the code here: http://github.com/muddana/blackjack
 
-Also, last week was a better week for BusFind got 89 calls in total last week. see the pic below. So the number has increased from past week.thats a positive sign. I have got to work on putting up pamphlets to publicize BusFind around school sometime soon so that more people will get to know about BusFind. Also if i haven't mentioned already i have fixed one of the errors in BusFind which was causing some exceptions.
+Also, last week was a better week for BusFind got 89 calls in total last week. see the picture below. So the number has increased from past week.thats a positive sign. I have got to work on putting up pamphlets to publicize BusFind around school sometime soon so that more people will get to know about BusFind. Also if i haven't mentioned already i have fixed one of the errors in BusFind which was causing some exceptions.
 
 happy hacking.
 

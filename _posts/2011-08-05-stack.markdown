@@ -7,6 +7,6 @@ categories: art
 
 <img src="/assets/glasses.JPG" width="500px" alt="Full Stack"/>
 
-Top view of a stack of glasses in a tower format. In the begining of my job at Mathworks, I would drink a cup of water and instead of throwing away (there was no recylcing), I collected all of them and stacked them together to form a tower. 
+Top view of a stack of glasses in a tower format. In the beginning of my job at Mathworks, I would drink a cup of water and instead of throwing away (there was no recycling), I collected all of them and stacked them together to form a tower. 
 Count the number of levels in the tower!
 
