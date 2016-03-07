@@ -14,19 +14,14 @@ Our team interacting with Massachusetts attorney general Maura Healey :
 
 <!--endOfExcerpt-->
 
-On Jan 24, 2016, I paricipated in [HackTrafficking4Good](http://www.hack-traffickingforgood.com/#hack-exploitation-for-good-boston "#HackTrafficking4Good") hackathon organized in Boston. Desite being excited about participating in another hackathon, however, I was a bit skeptical because the theme of the hackathon was a bit grim. Human trafficking is a very serious issue, so wasn't sure how/what the hackathon might entail. 
+On Jan 24, 2016, I participated in [HackTrafficking4Good](http://www.hack-traffickingforgood.com/#hack-exploitation-for-good-boston "#HackTrafficking4Good") hackathon organized in Boston. Desite being excited about participating in another hackathon, however, I was a bit skeptical because the theme of the hackathon was a bit grim. Human trafficking is a very serious issue, so wasn't sure how/what the hackathon might entail. 
 
-To my surpise, the hackathon was fun. Although the issues to be solved were dark/grim as expected, the enthusiasm in the room was palpable and the impending snowstorm over the weekend did not dampen the spirits. The snowstorm added to the drama perhaps, will-it-won't-it snow-a-lot!
+To my surprise, the hackathon was fun. Although the issues to be solved were dark/grim as expected, the enthusiasm in the room was palpable and the impending snowstorm over the weekend did not dampen the spirits. The snowstorm added to the drama perhaps, will-it-won't-it snow-a-lot!
 
-I joined a team around noon on Saturday. We went about to create an intellegent bot to help with the problem of prostitution over the next day and half. An intelligent bot would serve as a helper for law enforcing agents to fight human trafficking. 
+I joined a team around noon on Saturday. We went about to create an intelligent bot to help with the problem of prostitution over the next day and half. An intelligent bot would serve as a helper for law enforcing agents to fight human trafficking. 
 
-Our hack won the **most innovative hack** prize. I was nominated for an induvidual hacker prize by my teammate, which was a nice surprise!
+Our hack won the **most innovative hack** prize. I was nominated for an individual hacker prize by my teammate, which was a nice surprise!
 
 There were talks from various people from various local/regional human trafficking prevention groups. There were talks by Boston mayor [Marthy Walsh](http://www.martywalsh.org/ "Marthy Walsh") and Massachusetts attorney general [Maura Healey](https://twitter.com/MassAGO "Maura Healey").
 
 There were many other solutions which were also impressive, especially the implementation aspect of it. There was a lot of participation in the event. Overall, a successful weekend!
-
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
