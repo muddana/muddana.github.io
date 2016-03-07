@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Srinivas
+title: About Srinivas Muddana
 permalink: /about/
 ---
 
