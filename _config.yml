@@ -22,3 +22,5 @@ markdown: kramdown
 
 #other settings
 
+gems:
+  - jekyll-redirect-from
