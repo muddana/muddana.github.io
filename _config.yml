@@ -15,6 +15,7 @@ url: "http://localhost:4000/" # the base hostname & protocol for your site
 github.url : "http://muddana.github.io/"
 twitter_username: MUDDANA
 github_username:  muddana
+resume_link: https://drive.google.com/file/d/0BzJFlLjTbohPd3pxdHU4bG5EM3c/view?usp=sharing 
 
 # Build settings
 markdown: kramdown
