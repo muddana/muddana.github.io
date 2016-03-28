@@ -20,7 +20,7 @@ excerpt_separator: <!--endOfExcerpt-->
 Recently, Supreme Court of India reinstated Criminality of Homosexuality in India. Specifically the the ruling is about interpretation of section [377](https://www.wikiwand.com/en/Section_377_of_the_Indian_Penal_Code "377") of Indian Penal Code (IPC). This section is a remnant of the colonial era law, sadly still in effect. The impact of this on the LGBT community in India is pretty drastic. This is a huge step back from the 2009 Delhi high court's progressive ruling in favor of LGBT groups. Apart from harassment of LGBT individuals by the police, this would put LGBT groups back underground and various public health initiatives(think HIV AIDS) at a disadvantage.
 
 
-A few of us in Boston organized Boston's Global Day of Rage. <!--endOfExcerpt--> We setup a facebook page, invited few friends and the word spread though Facebook. The protest location was Harvard Square. The turnout was pretty good. Much more than we anticipated. We started the day at panera bread at Harvard Square. Spend some time preparing the written placards. We had plenty of printed placards at hand as well.
+A few of us in Boston organized Boston's Global Day of Rage. <!--endOfExcerpt--> We setup a facebook page, invited few friends and the word spread though Facebook. The protest location was Harvard Square. The turnout was pretty good. Much more than we anticipated. We started the day at panera bread at Harvard Square. Spent some time preparing the written placards. We had plenty of printed placards at hand as well.
 
 <img src="/assets/377placards.jpg" width="500px" alt="Preparing placards"/>
 
