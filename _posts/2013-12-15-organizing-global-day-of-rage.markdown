@@ -24,7 +24,7 @@ A few of us in Boston organized Boston's Global Day of Rage. <!--endOfExcerpt-->
 
 <img src="/assets/377placards.jpg" width="500px" alt="Preparing placards"/>
 
-There was a lot of support from various people around Harvard Square. A lot of locals stopped by to join the protest to support the cause. The sweetest of all was the family with a kid stopped by on their walk around the neighborhood, they joined alongside us in the protest impromptu.  
+There was a lot of support from various people around Harvard Square. A lot of locals stopped by to join the protest to support the cause. The sweetest of all was the family with a kid that stopped by on their walk around the neighborhood, they joined alongside us in the protest impromptu.  
 
 Overall, it was a great experience. We got to contribute to the outrage again the ruling. It was great to see the support we found in the community in and around Boston/Cambridge. 
 
