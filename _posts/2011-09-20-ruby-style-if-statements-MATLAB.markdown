@@ -39,7 +39,6 @@ left out the error checking. But here is the code:
 %  All code (c)2012 Srinivas Muddana. all rights reserved
 % 
 % do a = a*-1 if(a<0);
-% can add a ternary operator too.??
 function do(varargin)
     %expr = size(2*length(varargin) -1) ;
     expr = '';
