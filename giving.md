@@ -23,6 +23,7 @@ Inspired by others in the Effective Altruism community[^1], I am setting up my g
 | Give Directly  | 50  			 | [GiveDirectly](http://givedirectly.org) |                  |  
 | Give Directly  | 120[^2]  	 | [GiveDirectly](http://givedirectly.org) | [Basic income](https://www.givedirectly.org/basic-income) |   
 | Against Malaria Foundation          | 50  		     |  [AMA](https://www.againstmalaria.com/)                |                  |
+| Global Iodine Network         | 50  		     |  [GIN](http://www.ign.org/) |                  |
 
 
 <br/>
