@@ -24,7 +24,8 @@ Inspired by others in the Effective Altruism community[^1], I am setting up my g
 | Give Directly  | 120[^2]  	 | [GiveDirectly](http://givedirectly.org) | [Basic income](https://www.givedirectly.org/basic-income) |   
 | Against Malaria Foundation          | 50  		     |  [AMA](https://www.againstmalaria.com/)                |                  |
 | Global Iodine Network         | 50  		     |  [GIN](http://www.ign.org/) |                  |
-|Malaria Consortium | 50 | [Malaria Consoritium](http://www.malariaconsortium.org/) | seasonal malaria chemoprevention program  |
+|Malaria Consortium | 50 | [Malaria Consoritium](http://www.malariaconsortium.org/) | Seasonal malaria chemoprevention program  |
+|Evidence Action  | 50 | [Evidence Action](https://www.evidenceaction.org/dewormtheworld) | Deworm the world Initiative  |
 
 
 <br/>
