@@ -26,6 +26,7 @@ Inspired by others in the Effective Altruism community[^1], I am setting up my g
 | Global Iodine Network         | 50  		     |  [GIN](http://www.ign.org/) |                  |
 |Malaria Consortium | 50 | [Malaria Consoritium](http://www.malariaconsortium.org/) | Seasonal malaria chemoprevention program  |
 |Evidence Action  | 50 | [Evidence Action](https://www.evidenceaction.org/dewormtheworld) | Deworm the world Initiative  |
+|Pratham  | 50 | [Pratham USA](http://prathamusa.org/) |  |
 
 
 <br/>
