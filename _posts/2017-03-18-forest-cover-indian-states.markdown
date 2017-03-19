@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Forest cover Indian States"
+title:  "Forest Cover Indian States"
 date:   2017-03-18 14:10:00 -0500
 categories: maps India hacks
 excerpt_separator: <!--endOfExcerpt-->
