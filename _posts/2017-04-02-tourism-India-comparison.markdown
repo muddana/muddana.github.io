@@ -35,7 +35,7 @@ A comparative data showing the number of outbound tourists and their spending, f
 
 Numbers for India pale in comparison to the rest of the world. In this time period, China has seen its number of outbound tourists increase by a factor of ~22! India's numbers might not be as impressive as that of China's, however, if the predictions of 50 million outbound tourists by 2020 from India is to be true, it is still a very high number. 
 
-The hope is that in the coming decades, traveling with Indian passports will be easier. Hopefully more countries will ease their visa policies for Indian travelers, trying to lure them away to their lands, whether it is folkloric-Hamelin or hispter-Berlin or passe-Paris. 
+The hope is that in the coming decades, traveling with Indian passports will be easier. More number of countries could try to tap into the spending by Indian tourists and consider them an attractive economic opportunity to advertise to. In the process, more countries could ease their visa policies for Indian travelers, trying to lure them away to their lands, whether it is folkloric-Hamelin or hispter-Berlin or passe-Paris. 
 
  [^1]: [http://www.bruisedpassports.com/why-bruised-passports](http://www.bruisedpassports.com/why-bruised-passports){:target="_blank"}
  [^2]: [http://timesofindia.indiatimes.com/nri/citizen-journalists/citizen-journalists-reports/alyssa-james/The-challenges-of-traveling-on-an-Indian-passport/articleshow/46905774.cms](http://timesofindia.indiatimes.com/nri/citizen-journalists/citizen-journalists-reports/alyssa-james/The-challenges-of-traveling-on-an-Indian-passport/articleshow/46905774.cms){:target="_blank"}
