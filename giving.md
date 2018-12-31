@@ -15,6 +15,7 @@ Inspired by others in the Effective Altruism community[^1], I am setting up my g
 | EA Fund (Global Development 95%, Long-Term 5%)     | 200           |[EA Funds](https://app.effectivealtruism.org/funds) | |
 | Give Well     | 700           |[Give Well](https://www.givewell.org/) | |
 
+<br/>
 
 # 2017
 
