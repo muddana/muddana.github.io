@@ -7,6 +7,7 @@ permalink: /giving/
 Inspired by others in the Effective Altruism community[^1], I am setting up my giving page.
 
 # 2018
+
 | Organization   | Amount (USD)  | Website  	    | Special Program  |
 | -------------  | ------------- |---------------   | ---------------- |
 | Give Directly  | 270  		 |[GiveDirectly](http://givedirectly.org)        |  [Basic income](https://www.givedirectly.org/basic-income)  |
