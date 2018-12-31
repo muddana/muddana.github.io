@@ -6,6 +6,14 @@ permalink: /giving/
 
 Inspired by others in the Effective Altruism community[^1], I am setting up my giving page.
 
+# 2018
+| Organization   | Amount (USD)  | Website  	    | Special Program  |
+| -------------  | ------------- |---------------   | ---------------- |
+| Give Directly  | 270  		 |[GiveDirectly](http://givedirectly.org)        |  [Basic income](https://www.givedirectly.org/basic-income)  |
+| Watsi          | 180           |[Watsi](http://watsi.org) | [Universal Fund](https://watsi.org/universal-fund)|
+| EA Fund (Global Development 95%, Long-Term 5%)     | 200           |[EA Funds](https://app.effectivealtruism.org/funds) | |
+| Give Well     | 700           |[Give Well](https://www.givewell.org/) | |
+
 # 2017
 
 | Organization   | Amount (USD)  | Website  	    | Special Program  |
@@ -30,7 +38,7 @@ Inspired by others in the Effective Altruism community[^1], I am setting up my g
 <br/>
 Most of these donations were made based on [GiveWell](https://www.givewell.org) and [Life You Can Save](https://www.thelifeyoucansave.org) recommendations.
 
-# 2016 
+# 2016
 
 | Organization   | Amount (USD)  | Website  	    | Special Program  |
 | -------------  | ------------- |---------------   | ---------------- |
@@ -66,4 +74,3 @@ Most of these donations were made based on [GiveWell](https://www.givewell.org) 
 [^2]: <sub>Yearly commitment</sub>
 [^3]: <sub>Extra USD 145 matched.</sub>
 [^4]: <sub>Extra USD 20 matched.</sub>
-
